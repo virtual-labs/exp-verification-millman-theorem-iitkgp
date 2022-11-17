@@ -2,35 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      "question": " According to Millman’s Theorem, if there are n voltage sources with n internal resistances respectively, are in parallel, then these sources are replaced by?",
+      "answers": { 
+        "a": "single current source I’ in series with R’",
+        "b": "single voltage source V’ in series with R’",
+        "c": "single current source I’ in parallel to R’",
+        "d": "single voltage source V’ in parallel to R’"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "According to Millman’s Theorem, if there are n current sources with n internal conductances respectively, are in series, then these sources are replaced by?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "single voltage source V’ in parallel with G’",
+        "b": "single current source I’ in series with G’",
+        "c": "single current source I’ in parallel with G’",
+        "d": "single voltage source V’ in series with G’"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
