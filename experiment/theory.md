@@ -19,3 +19,4 @@
 							<p style="text-align:justify">This voltage represents the thevenin's voltage `V`. The resistance `R` can be found , as usual , by replacing each voltage source by a short circuit. If there is a load resistance R<sub>L</sub> across the terminals A and B , then the load current I<sub>L</sub>` is given by</p> 
 							        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$I_L=V/(R+R_L)$$</p>
 						<br>
+			<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>			
