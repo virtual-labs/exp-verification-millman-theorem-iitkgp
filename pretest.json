@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": " According to Millman’s Theorem, if there are n voltage sources with n internal resistances respectively, are in parallel, then these sources are replaced by?",
+      "answers": { 
+        "a": "single current source I’ in series with R’",
+        "b": "single voltage source V’ in series with R’",
+        "c": "single current source I’ in parallel to R’",
+        "d": "single voltage source V’ in parallel to R’"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "According to Millman’s Theorem, if there are n current sources with n internal conductances respectively, are in series, then these sources are replaced by?",
+      "answers": {
+        "a": "single voltage source V’ in parallel with G’",
+        "b": "single current source I’ in series with G’",
+        "c": "single current source I’ in parallel with G’",
+        "d": "single voltage source V’ in series with G’"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
