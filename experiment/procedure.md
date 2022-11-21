@@ -20,3 +20,5 @@
 							<p>5) &nbsp; Now compute the load current. Applying  Millman's theorem.</p>
 							<br>
 							<p style="text-align: center;">$$I_L=V_m/(R_m+R_L)$$</p><br>
+							
+							<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
