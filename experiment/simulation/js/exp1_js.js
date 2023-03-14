@@ -17,7 +17,7 @@ s3=parseFloat(document.getElementById('s3').value);
 			var i = v2/(r2 + rl1);
 			if (i > 5 || isNaN(i))
 				{
-					document.getElementById('led1').src = "./image/led_off.png";
+					document.getElementById('led1').src = "./images/led_off.png";
 					document.getElementById("led1").style["cursor"] = "pointer";
 					alert('Click on the fuse indicator to repair it and increase the resistance value.');
 				}
@@ -82,7 +82,7 @@ s3=parseFloat(document.getElementById('s3').value);
 			var i = (v3 / r2);
 			if (i > 5 || isNaN(i))
 				{
-					document.getElementById('led1').src = "./image/led_off.png";
+					document.getElementById('led1').src = "./images/led_off.png";
 					document.getElementById("led1").style["cursor"] = "pointer";
 					alert('Click on the fuse indicator to repair it and increase the resistance value.');
 				}
@@ -165,7 +165,7 @@ function change_led1() {
 		var fuse = document.getElementById('led1');
 		if(fuse.src.match("led_off"))
 		{
-			fuse.src = "./image/led_on.png"; 
+			fuse.src = "./images/led_on.png"; 
 		document.f1.r2.value = 200;
 		}
 		
@@ -174,7 +174,7 @@ function change_led2() {
 		var fuse = document.getElementById('led2');
 		if(fuse.src.match("led_off"))
 		{
-		fuse.src = "./image/led_on.png"; 
+		fuse.src = "./images/led_on.png"; 
 		document.f1.r2.value = 200;
 		}
 }
