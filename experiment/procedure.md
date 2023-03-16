@@ -14,7 +14,7 @@
 							<br> 
 							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Replace the  220 V source by a short by closing S<sub>1</sub> to "bb" and S<sub>2</sub> to "dd".
 							<br> 
-							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Apply 110 V at the output terminals by closing S<sub>3</sub> to "ee". Read the voltmeter (`V`) and ammeter (`I`) and get</p><br>	
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Apply 110 V at the output terminals by closing S<sub>3</sub> to "ee". Read the voltmeter (V) and ammeter (I) and get</p><br>	
 							<p style="text-align: center;"> $$R_m=V/I$$</p>
 							<br>
 							<p>5) &nbsp; Now compute the load current. Applying  Millman's theorem.</p>
