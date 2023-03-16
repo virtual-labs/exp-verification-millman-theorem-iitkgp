@@ -14,7 +14,7 @@
 
 a) Replace the  220 V source by a short by closing S<sub>1</sub> to "bb" and S<sub>2</sub> to "dd".
 
-b) Apply 110 V at the output terminals by closing S<sub>3</sub> to "ee". Read the voltmeter (`V`) and ammeter (`I`) and get
+b) Apply 110 V at the output terminals by closing S<sub>3</sub> to "ee". Read the voltmeter (V) and ammeter (I) and get
 
 $$ R_m=V/I $$
 
