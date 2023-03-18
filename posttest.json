@@ -1,0 +1,93 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Using Millman's theorem, find the current through R<sub>L</sub> in the circuit shown in the figure and find the voltage drop across the load resistance R<sub>L</sub>.<br/>     <p style=\"text-align:center\"> [ r<sub>1</sub>=r<sub>2</sub>=r<sub>3</sub>=4 Ω and R<sub>L</sub>=10 Ω ]</p><br/><p style=\"text-align:center\"><img src=\"images/quiz1_millman.jpg\" style=\"width:450px;height:300px;\"></p>",
+      "answers": {
+        "a": "I=0.32 Amp and V=2.67 V",
+        "b": "I=0.12 Amp and V=1.2 V",
+        "c": "I=0.5 Amp and V=2.67 V",
+        "d": "I=0.32 Amp and V=1.2 V"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find the current through 5Ω resistor using Millman’s theorem .<br/><p style=\"text-align:center\"><img src=\"images/quiz2_millman.jpg\" style=\"width:460px;height:280px;\"></p>",
+      "answers": {
+        "a": "8 Amp",
+        "b": "2.8 Amp",
+        "c": "4 Amp",
+        "d": "3 Amp"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find Millman’s equivalent circuit for the left of the terminal X-Y in the network.<br/><p style=\"text-align:center\"><img src=\"images/quiz3_millman.jpg\" style=\"width:460px;height:280px;\"></p>",
+      "answers": {
+        "a": "V=9/4 V and R= 15/8 Ω",
+        "b": "V=10/3 V and R= 4/3 Ω",
+        "c": "V=15/7 V and R= 8/3 Ω",
+        "d": "V=7/4 V and R= 19/7 Ω"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Using Millman's theorem, find the current through 2Ω resistance in the circuit shown in the figure and also find the voltage drop across the 2Ω resistance.<br/><p style=\"text-align:center\"><img src=\"images/quiz4_millman.jpg\" style=\"width:450px;height:330px;\"></p>",
+      "answers": {
+        "a": "I=3.2 Amp and v=15 V",
+        "b": "I=6.5 Amp and v=13 V",
+        "c": "I=8.75 Amp and v=13 V",
+        "d": "I=6.5 Amp and v=15 V"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Using Millman's theorem, find the current through 8Ω resistance in the circuit shown in the figure.<br/><p style=\"text-align:center\"><img src=\"images/quiz5_millman.jpg\" style=\"width:470px;height:290px;\"></p>",
+      "answers": {
+        "a": "2.57 Amp",
+        "b": "4 Amp",
+        "c": "3 Amp",
+        "d": "6 Amp"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+    
+
+
+  ]
+}
