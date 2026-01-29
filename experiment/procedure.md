@@ -1,6 +1,6 @@
 ### Procedure
 <div align="center">
-<img src="images/Millman's procedure image3.jpg" style="height: 50%; width:80%;">
+<img src="images/Millman_s procedure image3.jpg" style="height: 50%; width:80%;">
 	
 [Fig.1 The circuit diagram of Millman's theorem]
 </div>
