@@ -5,4 +5,4 @@
 <p>3) Parker Smith, Problems in Electrical Engineering. Ninth Edition :2003 , M/s Constable and Company, London.</p>
 
 #### Video Lectures
-
+<p><a href="http://nptel.ac.in/courses/108106075/35" target="_blank">Click here for NPTEL Video Lecture</a></p>
