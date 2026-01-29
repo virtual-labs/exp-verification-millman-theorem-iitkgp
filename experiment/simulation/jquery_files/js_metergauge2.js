@@ -1,5 +1,5 @@
 
-		$(document).ready(function(){
+		 $(document).ready(function(){
 		   s12 = [0];
 		   plot2 = $.jqplot('chart2',[s12],{
 			   grid: {
@@ -32,4 +32,39 @@
 				   }
 			   }
 		   });
-		}
+		} 
+		
+		/* $(document).ready(function(){
+		   s12 = [0];
+		   plot2 = $.jqplot('chart2',[s12],{
+			   grid: {
+				   background: "transparent"
+			   },
+			   seriesDefaults: {
+				   renderer: $.jqplot.MeterGaugeRenderer,
+				   rendererOptions: {
+					   min: 0,
+					   max: 90,
+					   intervals:[0, 10, 20, 30 , 40, 50, 60, 70, 80, 90],
+					   intervalColors:['#66cc66', '#93b75f', '#E7E658', '#cc6666', '#7E9BF2', '#4FB7BD', '#1A787D', '#12474A', '#939696', '#0A0AF2']
+				   }
+			   }
+		   });
+		});
+		function perform_meter2(){
+		s12[0] = parseFloat(document.getElementById('A').value); 
+		plot2 = $.jqplot('chart2',[s12],{
+				grid: {
+				   background: "transparent"
+				},
+			   seriesDefaults: {
+				   renderer: $.jqplot.MeterGaugeRenderer,
+				   rendererOptions: {
+					   min: 0,
+					   max: 90,
+					   intervals:[0, 10, 20, 30 , 40, 50, 60, 70, 80, 90],
+					   intervalColors:['#66cc66', '#93b75f', '#E7E658', '#cc6666', '#7E9BF2', '#4FB7BD', '#1A787D', '#12474A', '#939696', '#0A0AF2']
+				   }
+			   }
+		   });
+		} */
