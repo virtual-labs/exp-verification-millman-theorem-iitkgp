@@ -10,7 +10,7 @@
 									</figure>
 									<br>
 									<br><figure style="text-align:center">
-									  <img alt="" src="images/Millman's_theory2.jpg" style="width:380px;height:210px;">
+									  <img alt="" src="images/Millman_s_theory2.jpg" style="width:380px;height:210px;">
 									  <figcaption> Fig.2&nbsp;Equivalent voltage and resistance of the source network following millman's theorem</figcaption>
 									</figure>
 									<br>
